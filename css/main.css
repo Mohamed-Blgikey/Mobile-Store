@@ -1,0 +1,7 @@
+.updateProduct{
+    position: fixed;
+    top: 100;
+    left:450;
+    width: 40%;
+    display: none;
+}
